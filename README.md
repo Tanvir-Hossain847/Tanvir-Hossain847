@@ -1,4 +1,8 @@
-<!-- Header -->
+<!-- Banner / Header -->
+<p align="center">
+  <img src="https://via.placeholder.com/1000x200/1e1e2f/00BFFF?text=Tanvir+Hossain+-+Fullstack+Developer" width="100%" alt="Banner"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Tanvir Hossain</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | MERN Stack & Django Enthusiast</h3>
 
@@ -27,87 +31,68 @@
 
 ---
 
-# 🛠️ **Languages & Tools (Organized)**
+# 🛠️ Languages & Tools (Organized)
 
-## 🎨 **Frontend Development**
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" alt="framer"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" height="40"/>
 </p>
 
-## ⚙️ **Backend Development**
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40"/>
-  <img src="https://skillicons.dev/icons?i=python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=django" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" height="40"/>
 </p>
 
-## 🗄️ **Databases**
+### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" height="40"/>
 </p>
 
-## 🚀 **DevOps & Deployment**
+### 🚀 DevOps & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=nginx" height="40"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+<img src="https://skillicons.dev/icons?i=nginx,linux,git,github,postman" height="40"/>
 </p>
 
-## 🎨 **Design / Creative Tools**
+### 🎨 Design Tools
 <p>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"/>
 </p>
 
-## 🧰 **Additional Tools**
+### 🧰 Additional Tools
 <p>
-  
+<img src="https://skillicons.dev/icons?i=framer" height="40"/>
 </p>
 
 ---
 
-# 📊 GitHub Statistics (Tokyo Night Theme)
+## 🏆 Achievements (Dark Look)
 
-## ⭐ **Overall Stats**
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&theme=tokyonight" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Fullstack%20Dev-MERN%20%2B%20Django-dark?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focused%20on%20Growth-Continuous%20Learning-dark?style=for-the-badge&logo=read-the-docs" />
+  <img src="https://img.shields.io/badge/Problem%20Solver-300%2B%20DSA%20Problems-dark?style=for-the-badge&logo=leetcode" />
+  <img src="https://img.shields.io/badge/Projects-20%2B%20Completed-dark?style=for-the-badge&logo=github" />
 </p>
 
-## ⭐ **Top Languages**
+---
+
+## 📊 GitHub Statistics (Tokyo Night Theme)
+
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&theme=tokyonight" />
 </p>
 
-## ⭐ **Streak Stats**
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=tanvir-hossain847&theme=tokyonight" />
 </p>
 
 ---
 
-# 📈 **Activity Graph (Tokyo Night Theme)**
+## 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 **Achievements**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanvir-hossain847&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
