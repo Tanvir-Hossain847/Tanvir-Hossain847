@@ -37,7 +37,7 @@
 
   <!-- Twitter -->
   <a href="https://twitter.com/tanvir25976" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg" height="40" alt="Twitter"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/X_logo_2023.svg/960px-X_logo_2023.svg.png" height="40" alt="Twitter"/>
   </a>
 
   <!-- LinkedIn -->
@@ -52,7 +52,7 @@
 
   <!-- Behance -->
   <a href="https://behance.net/tufa207" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Behance_Logo.svg" height="40" alt="Behance"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Behance-icon.png/640px-Behance-icon.png" height="40" alt="Behance"/>
   </a>
 </p>
 
