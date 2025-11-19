@@ -38,6 +38,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
   <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" alt="framer"/>
 </p>
 
 ## ⚙️ **Backend Development**
@@ -73,7 +74,7 @@
 
 ## 🧰 **Additional Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=framer" height="40"/>
+  
 </p>
 
 ---
