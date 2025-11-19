@@ -29,7 +29,7 @@
 ---
 
 ## <b>🌐 Connect With Me</b>
-<p gap='5px'>
+<p>
   <!-- Gmail -->
   <a href="mailto:tanvirhossaintufa@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail"/>
@@ -84,7 +84,7 @@
 ### 🎨 Design Tools
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/640px-Adobe_Photoshop_CC_icon.svg.png" height="40"/>
 </p>
 
 ---
@@ -105,20 +105,20 @@
 
 <p align="center">
   <!-- Overall GitHub Stats -->
-  <img height="180" src="https://github-readme-stats.zcy.dev/api?username=tanvir-hossain847&show_icons=true&count_private=true&include_all_commits=true&theme=night-owl" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
 
   <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=tanvir-hossain847&layout=compact&langs_count=10&theme=night-owl" alt="Top Languages"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&langs_count=10&theme=dark" alt="Top Languages"/>
 </p>
 
 <p align="center">
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=tanvir-hossain847&theme=night-owl&border_radius=4.5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=tanvir-hossain847&theme=dark&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=night-owl&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
