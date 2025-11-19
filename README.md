@@ -26,11 +26,19 @@
 </p>
 
 ---
-
-## 🛠️ Languages & Tools  
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,python,django,git,figma,photoshop,postman,tailwind,linux,mysql,sqlite,nginx" />
-</p>
+🛠️ Languages & Tools (Organized by Category)
+🎨 Frontend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=html" height="40"/> <img src="https://skillicons.dev/icons?i=css" height="40"/> <img src="https://skillicons.dev/icons?i=js" height="40"/> <img src="https://skillicons.dev/icons?i=react" height="40"/> <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/> <img src="https://skillicons.dev/icons?i=figma" height="40"/> </p>
+⚙️ Backend Development
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> <img src="https://skillicons.dev/icons?i=express" height="40"/> <img src="https://skillicons.dev/icons?i=python" height="40"/> <img src="https://skillicons.dev/icons?i=django" height="40"/> </p>
+🗄️ Databases
+<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> <img src="https://skillicons.dev/icons?i=mysql" height="40"/> <img src="https://skillicons.dev/icons?i=sqlite" height="40"/> <img src="https://skillicons.dev/icons?i=firebase" height="40"/> </p>
+🚀 DevOps & Deployment
+<p align="left"> <img src="https://skillicons.dev/icons?i=nginx" height="40"/> <img src="https://skillicons.dev/icons?i=linux" height="40"/> <img src="https://skillicons.dev/icons?i=git" height="40"/> <img src="https://skillicons.dev/icons?i=github" height="40"/> <img src="https://skillicons.dev/icons?i=postman" height="40"/> </p>
+🎨 Design & Creative Tools
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"/> <img src="https://skillicons.dev/icons?i=figma" height="40"/> </p>
+🧰 Additional Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=framer" height="40"/> </p>
 
 ---
 
@@ -58,7 +66,8 @@
 
 ## 📈 Activity Graph (Animated)  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight
+" />
 </p>
 
 ---
