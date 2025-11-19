@@ -58,7 +58,7 @@
 
 ---
 
-## <b>🛠️ Languages & Tools (Organized)</b>
+## <b>🛠️ Languages & Tools </b>
 
 ### 🎨 Frontend
 <p align="left">
@@ -89,7 +89,7 @@
 
 ---
 
-## <b>🏆 Achievements (Dynamic Badges)</b>
+## <b>🏆 Achievements </b>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏅%20Fullstack%20Dev-MERN%20%2B%20Django-1E90FF?style=for-the-badge&logo=github" alt="Fullstack Dev"/>
@@ -101,7 +101,7 @@
 
 ---
 
-## <b>📊 GitHub Statistics (Night Owl)</b>
+## <b>📊 GitHub Statistics </b>
 
 <p align="center">
   <!-- Overall GitHub Stats -->
