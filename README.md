@@ -103,7 +103,7 @@
 
 ## <b>📊 GitHub Statistics (Night Owl)</b>
 
-<div align="center" style="background: url('https://images.unsplash.com/photo-1627484331585-fb70e2b636c4?auto=format&fit=crop&w=1000&q=80') no-repeat center; background-size: cover; border-radius: 15px; padding: 20px; display: inline-block;">
+<div align="center" style="background: url('https://images.unsplash.com/photo-1478760329108-5c3ed9d495a0?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D') no-repeat center; background-size: cover; border-radius: 15px; padding: 20px; display: inline-block;">
 
   <!-- Overall GitHub Stats (Dark Theme) -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
