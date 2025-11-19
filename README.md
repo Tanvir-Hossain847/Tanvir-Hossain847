@@ -103,22 +103,22 @@
 
 ## <b>📊 GitHub Statistics (Night Owl)</b>
 
-
+<p align="center">
   <!-- Overall GitHub Stats -->
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
-
 
   <!-- GitHub Streak -->
   <img align="center" src="https://streak-stats.demolab.com/?user=tanvir-hossain847&theme=dark&border_radius=4.5" alt="GitHub Streak" />
 
    <!-- Top Languages  -->
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&langs_count=10&theme=dark" alt="Top Languages"/>
+</p>
 
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=tokyonight&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
+
 
 ---
 
