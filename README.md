@@ -61,28 +61,28 @@
 ## <b>🛠️ Languages & Tools (Organized)</b>
 
 ### 🎨 Frontend
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" alt="Framer"/>
 </p>
 
 ### ⚙️ Backend
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" height="40"/>
 </p>
 
 ### 🗄️ Databases
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" height="40"/>
 </p>
 
 ### 🚀 DevOps & Deployment
-<p align="center">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nginx,linux,git,github,postman" height="40"/>
 </p>
 
 ### 🎨 Design Tools
-<p align="center">
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"/>
 </p>
@@ -99,22 +99,16 @@
   <img src="https://img.shields.io/badge/🎨%20Designer-Illustrator%20%2B%20Photoshop-FF4500?style=for-the-badge&logo=adobeillustrator" alt="Designer"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Ileriayo/markdown-badges@master/icons/rocket.svg" height="60" alt="Rocket Achievement" />
-  <img src="https://cdn.jsdelivr.net/gh/Ileriayo/markdown-badges@master/icons/lightning.svg" height="60" alt="Fast Learner" />
-  <img src="https://cdn.jsdelivr.net/gh/Ileriayo/markdown-badges@master/icons/medal.svg" height="60" alt="Top Contributor" />
-</p>
-
 ---
 
 ## <b>📊 GitHub Statistics (Night Owl)</b>
 
 <p align="center">
   <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&count_private=true&theme=night-owl&hide_title=false&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img height="180" src="https://github-readme-stats.zcy.dev/api?username=tanvir-hossain847&show_icons=true&count_private=true&include_all_commits=true&theme=night-owl" alt="GitHub Stats" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&langs_count=10&theme=night-owl" alt="Top Languages" height="180" />
+  <img height="180" src="https://github-readme-stats.zcy.dev/api/top-langs/?username=tanvir-hossain847&layout=compact&langs_count=10&theme=night-owl" alt="Top Languages"/>
 </p>
 
 <p align="center">
