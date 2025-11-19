@@ -27,32 +27,31 @@
 - 📫 Reach me at: **tanvirhossaintufa@gmail.com**
 
 ---
-
-## 🌐 Connect With Me
+## **🌐 Connect With Me**
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:tanvirhossaintufa@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" height="40" alt="Gmail" style="fill:#D14836"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail"/>
   </a>
 
   <!-- Twitter -->
   <a href="https://twitter.com/tanvir25976" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" height="40" alt="Twitter" style="fill:#1DA1F2"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9f/Twitter_bird_logo_2012.svg" height="40" alt="Twitter"/>
   </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/tanvir-hossain-2a1b52188" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="40" alt="LinkedIn" style="fill:#0A66C2"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40" alt="LinkedIn"/>
   </a>
 
   <!-- Facebook -->
   <a href="https://facebook.com/tanvir.hossain.788840" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" height="40" alt="Facebook" style="fill:#1877F2"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" height="40" alt="Facebook"/>
   </a>
 
   <!-- Behance -->
   <a href="https://behance.net/tufa207" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" height="40" alt="Behance" style="fill:#1769FF"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Behance_Logo.svg" height="40" alt="Behance"/>
   </a>
 </p>
 
@@ -107,23 +106,24 @@
 
 ---
 
-## 📊 GitHub Statistics (Night Owl / Gruvbox)
+## 📊 GitHub Statistics (Night Owl)
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&theme=night-owl&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&theme=night-owl&hide=jupyter%20notebook&langs_count=10" alt="Top Languages"/>
+  <!-- Overall GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&count_private=true&theme=night-owl&hide_title=false&include_all_commits=true" alt="GitHub Stats" height="180" />
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&langs_count=10&theme=night-owl" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tanvir-hossain847&theme=night-owl" alt="GitHub Streak"/>
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=tanvir-hossain847&theme=night-owl&border_radius=4.5" alt="GitHub Streak" />
 </p>
 
----
-
-## 📈 Activity Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=night-owl&hide_border=true&area=true" alt="Activity Graph"/>
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=night-owl&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
