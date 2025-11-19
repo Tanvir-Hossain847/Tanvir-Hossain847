@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://i.ibb.co.com/YBhBpCbf/Gemini-Generated-Image-adkj4qadkj4qadkj.png" width="100%" alt="Banner"/>
+  <img src="https://i.ibb.co/YBhBpCbf/Gemini-Generated-Image-adkj4qadkj4qadkj.png" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center"><b>Hi 👋, I'm Tanvir Hossain</b></h1>
