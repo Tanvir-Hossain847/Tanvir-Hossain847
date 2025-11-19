@@ -1,6 +1,6 @@
 <!-- Banner / Header -->
 <p align="center">
-  <img src="https://via.placeholder.com/1000x200/1e1e2f/00BFFF?text=Tanvir+Hossain+-+Fullstack+Developer" width="100%" alt="Banner"/>
+  <img src="https://via.placeholder.com/1000x200/011627/00BFFF?text=Tanvir+Hossain+-+Fullstack+Developer" width="100%" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanvir Hossain</h1>
@@ -23,10 +23,11 @@
 
 ## 🌐 Connect With Me  
 <p align="left">
-<a href="https://twitter.com/tanvir25976" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-<a href="https://linkedin.com/in/tanvir-hossain-2a1b52188" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://facebook.com/tanvir.hossain.788840" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" height="40"/></a>
-<a href="https://behance.net/tufa207" target="_blank"><img src="https://skillicons.dev/icons?i=behance" height="40"/></a>
+<a href="mailto:tanvirhossaintufa@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" height="30" alt="Gmail"/></a>
+<a href="https://twitter.com/tanvir25976" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" height="30" alt="Twitter"/></a>
+<a href="https://linkedin.com/in/tanvir-hossain-2a1b52188" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="30" alt="LinkedIn"/></a>
+<a href="https://facebook.com/tanvir.hossain.788840" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" height="30" alt="Facebook"/></a>
+<a href="https://behance.net/tufa207" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/behance.svg" height="30" alt="Behance"/></a>
 </p>
 
 ---
@@ -36,6 +37,7 @@
 ### 🎨 Frontend
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" height="40" alt="Framer"/>
 </p>
 
 ### ⚙️ Backend
@@ -59,52 +61,47 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" height="40"/>
 </p>
 
-### 🧰 Additional Tools
-<p>
-<img src="https://skillicons.dev/icons?i=framer" height="40"/>
-</p>
-
 ---
 
-## 🏆 Achievements (Dark Look)
+## 🏆 Achievements (Badges)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Fullstack%20Dev-MERN%20%2B%20Django-dark?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focused%20on%20Growth-Continuous%20Learning-dark?style=for-the-badge&logo=read-the-docs" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-300%2B%20DSA%20Problems-dark?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Projects-20%2B%20Completed-dark?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Fullstack%20Dev-MERN%20%2B%20Django-blue?style=for-the-badge&logo=github" alt="Fullstack Dev"/>
+<img src="https://img.shields.io/badge/Focused%20on%20Growth-Continuous%20Learning-dark?style=for-the-badge&logo=read-the-docs" alt="Focused on Growth"/>
+<img src="https://img.shields.io/badge/Problem%20Solver-300%2B%20DSA%20Problems-dark?style=for-the-badge&logo=leetcode" alt="Problem Solver"/>
+<img src="https://img.shields.io/badge/Projects-20%2B%20Completed-dark?style=for-the-badge&logo=github" alt="Projects"/>
 </p>
 
 ---
 
-## 📊 GitHub Statistics (Tokyo Night Theme)
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&theme=tokyonight" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&theme=night-owl" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&theme=night-owl" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tanvir-hossain847&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=tanvir-hossain847&theme=night-owl" alt="Streak Stats"/>
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=night-owl&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
 
 ## 👀 Visitor Count
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=tanvir-hossain847&label=Profile+Views&color=blueviolet&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=tanvir-hossain847&label=Profile+Views&color=blueviolet&style=flat-square" alt="Visitor Count"/>
 </p>
 
 ---
 
 ## 🎉 Thanks for Visiting!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" />
+<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="Dino GIF"/>
 </p>
