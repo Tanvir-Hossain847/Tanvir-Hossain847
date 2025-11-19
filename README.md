@@ -29,7 +29,7 @@
 ---
 
 ## <b>🌐 Connect With Me</b>
-<p gap='5px>
+<p gap='5px'>
   <!-- Gmail -->
   <a href="mailto:tanvirhossaintufa@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail"/>
