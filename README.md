@@ -3,7 +3,7 @@
   <img src="https://via.placeholder.com/1000x200/011627/00BFFF?text=Tanvir+Hossain+-+Fullstack+Developer" width="100%" alt="Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Tanvir Hossain</h1>
+<h1 align="center"><b>Hi 👋, I'm Tanvir Hossain</b></h1>
 <h3 align="center">🚀 Full-Stack Web Developer | MERN Stack & Django Enthusiast</h3>
 
 <!-- Typing Animation -->
@@ -13,21 +13,22 @@
 
 ---
 
-## 👀 Profile Views
+## <b>👀 Profile Views</b>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tanvir-hossain847&label=Profile+Views&color=blueviolet&style=flat-square" height="60" alt="Visitor Count"/>
 </p>
 
 ---
 
-## 🚀 About Me  
+## <b>🚀 About Me</b>
 - 🌱 Currently learning **Python & Django**  
 - 💼 Full-Stack Developer (MERN + Django)  
 - 🎨 Skilled in UI/UX, Tailwind CSS & Modern Frontend  
 - 📫 Reach me at: **tanvirhossaintufa@gmail.com**
 
 ---
-## **🌐 Connect With Me**
+
+## <b>🌐 Connect With Me</b>
 <p align="center">
   <!-- Gmail -->
   <a href="mailto:tanvirhossaintufa@gmail.com" target="_blank">
@@ -57,7 +58,7 @@
 
 ---
 
-# 🛠️ Languages & Tools (Organized)
+## <b>🛠️ Languages & Tools (Organized)</b>
 
 ### 🎨 Frontend
 <p align="center">
@@ -88,7 +89,7 @@
 
 ---
 
-## 🏆 Achievements (Dynamic Badges)
+## <b>🏆 Achievements (Dynamic Badges)</b>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏅%20Fullstack%20Dev-MERN%20%2B%20Django-1E90FF?style=for-the-badge&logo=github" alt="Fullstack Dev"/>
@@ -106,7 +107,7 @@
 
 ---
 
-## 📊 GitHub Statistics (Night Owl)
+## <b>📊 GitHub Statistics (Night Owl)</b>
 
 <p align="center">
   <!-- Overall GitHub Stats -->
@@ -123,13 +124,12 @@
 
 <p align="center">
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=night-owl&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=night-owl&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
 
-## 🎉 Thanks for Visiting!
-
+## <b>🎉 Thanks for Visiting!</b>
 <p align="center">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="Dino GIF"/>
 </p>
