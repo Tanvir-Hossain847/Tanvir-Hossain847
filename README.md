@@ -103,22 +103,22 @@
 
 ## <b>📊 GitHub Statistics (Night Owl)</b>
 
-<p align="center">
-  <!-- Overall GitHub Stats -->
+<div align="center" style="background: url('https://images.unsplash.com/photo-1627484331585-fb70e2b636c4?auto=format&fit=crop&w=1000&q=80') no-repeat center; background-size: cover; border-radius: 15px; padding: 20px; display: inline-block;">
+
+  <!-- Overall GitHub Stats (Dark Theme) -->
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=tanvir-hossain847&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
 
-  <!-- Top Languages -->
+  <!-- Top Languages (Dark Theme) -->
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-hossain847&layout=compact&langs_count=10&theme=dark" alt="Top Languages"/>
-</p>
 
-<p align="center">
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak (Dark Theme) -->
   <img src="https://streak-stats.demolab.com/?user=tanvir-hossain847&theme=dark&border_radius=4.5" alt="GitHub Streak" />
-</p>
+
+</div>
 
 <p align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <!-- Activity Graph (Night Owl Theme) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=night-owl&hide_border=true&area=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
