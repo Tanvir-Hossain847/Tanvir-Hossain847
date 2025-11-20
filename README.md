@@ -37,7 +37,7 @@
 
   <!-- Twitter -->
   <a href="https://twitter.com/tanvir25976" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/X_icon_-_Gray.svg/640px-X_icon_-_Gray.svg.png" height="30" alt="Twitter"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/X_icon_-_Gray.svg/640px-X_icon_-_Gray.svg.png" height="40" alt="Twitter"/>
   </a>
 
   <!-- LinkedIn -->
