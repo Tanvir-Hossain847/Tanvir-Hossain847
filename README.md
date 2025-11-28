@@ -125,6 +125,6 @@
 ---
 
 ## <b>🎉 Thanks for Visiting!</b>
-<p align="center">
+<p align="centr">
   <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400" alt="Dino GIF"/>
 </p>
