@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&lines=Full-Stack+Developer;MERN+Stack+Specialist;Django+%7C+Python+Learner;I+Love+Building+Modern+Web+Apps" alt="Typing " />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=550&lines=Full-Stack+Developer;MERN+Stack+Specialist;Django+%7C+Python+Learner;I+Love+Building+Modern+Web+Apps" alt="Typing Animatio" />
 </p>
 
 ---
