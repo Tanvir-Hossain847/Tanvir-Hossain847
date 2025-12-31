@@ -109,7 +109,7 @@
 </p>
 <p align="center">
   <!-- GitHub Streak -->
-  <img align="center" src="https://streak-stats.demolab.com/?user=tanvir-hossain847&theme=dark&border_radius=4.5" alt="GitHub Streak" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanvir-Hossain847&theme=dark)](https://git.io/streak-stats)
 </p>
 <p align="center">
    <!-- Top Languages  -->
