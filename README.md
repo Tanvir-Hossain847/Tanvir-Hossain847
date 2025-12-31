@@ -108,11 +108,8 @@
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Tanvir-Hossain847&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
 </p>
 <!-- steak -->
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Tanvir-Hossain847&theme=dark" />
-  </a>
-</p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=Tanvir-Hossain847&theme=dark)
+
 <p align="center">
    <!-- Top Languages  -->
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Hossain847&layout=compact&langs_count=10&theme=dark" alt="Top Languages"/>
