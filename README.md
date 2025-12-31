@@ -101,20 +101,6 @@
 
 ---
 
-## <b>📊 GitHub Statistics </b>
-
-<p align="center">
-  <!-- Overall GitHub Stats -->
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=Tanvir-Hossain847&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
-</p>
-<!-- steak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Tanvir-Hossain847&theme=dark)
-
-<p align="center">
-   <!-- Top Languages  -->
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-Hossain847&layout=compact&langs_count=10&theme=dark" alt="Top Languages"/>
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanvir-hossain847&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph"/>
