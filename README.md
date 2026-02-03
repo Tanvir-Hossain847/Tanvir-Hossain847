@@ -35,10 +35,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail"/>
   </a>
 
-  <!-- Twitter -->
-  <a href="https://twitter.com/tanvir25976" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/X_icon_-_Gray.svg/640px-X_icon_-_Gray.svg.png" height="40" alt="Twitter"/>
-  </a>
 
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/tanvir-hossain-2a1b52188" target="_blank">
@@ -50,10 +46,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png" height="40" alt="Facebook"/>
   </a>
 
-  <!-- Behance -->
-  <a href="https://behance.net/tufa207" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Behance-icon.png/640px-Behance-icon.png" height="40" alt="Behance"/>
-  </a>
 </p>
 
 ---
