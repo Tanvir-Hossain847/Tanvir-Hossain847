@@ -81,6 +81,11 @@
 
 ---
 
+<b>🌍 Live Projects & Features</b>
+<p> Below are selected live projects that demonstrate real-world full-stack workflows, clean UI/UX, and production-ready implementations. </p> <ul> <li> <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" height="16" /> <b> Project Marketplace System</b><br/> A role-based project execution platform with task management, file submissions, and approval workflows.<br/> <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" height="14" /> Live Demo: <a href="https://your-project-link.vercel.app" target="_blank">View Website</a><br/> <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="14" /> Tech: Next.js, MongoDB, Firebase Auth, Cloudinary </li> </ul> <ul> <li> <img src="https://cdn-icons-png.flaticon.com/512/190/190411.png" height="16" /> <b> Portfolio Website</b><br/> Personal portfolio showcasing projects, skills, and experience with smooth animations and responsive design.<br/> <img src="https://cdn-icons-png.flaticon.com/512/535/535239.png" height="14" /> Live Demo: <a href="https://your-portfolio-link.netlify.app" target="_blank">View Website</a><br/> <img src="https://cdn-icons-png.flaticon.com/512/1828/1828884.png" height="14" /> Tech: React, Tailwind CSS, Framer Motion </li> </ul> <p> I would be happy to walk through these projects and discuss the implementation details. I look forward to your response. </p>
+
+---
+
 ## <b>🏆 Achievements </b>
 
 <p align="center">
